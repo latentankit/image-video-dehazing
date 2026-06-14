@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/
+*.mp4
+.DS_Store
+notebooks/
+test_dehaze.py
+test_video.py
